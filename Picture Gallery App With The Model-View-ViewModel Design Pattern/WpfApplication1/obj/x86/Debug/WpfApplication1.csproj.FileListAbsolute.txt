@@ -1,0 +1,42 @@
+C:\Users\wnmhb\Desktop\MVVM模式实现图片分页显示\WpfApplicationWPF\bin\Debug\WpfApplication1.exe.config
+C:\Users\wnmhb\Desktop\MVVM模式实现图片分页显示\WpfApplicationWPF\bin\Debug\WpfApplication1.exe
+C:\Users\wnmhb\Desktop\MVVM模式实现图片分页显示\WpfApplicationWPF\bin\Debug\WpfApplication1.pdb
+C:\Users\wnmhb\Desktop\MVVM模式实现图片分页显示\WpfApplicationWPF\obj\x86\Debug\MainWindow.g.cs
+C:\Users\wnmhb\Desktop\MVVM模式实现图片分页显示\WpfApplicationWPF\obj\x86\Debug\App.g.cs
+C:\Users\wnmhb\Desktop\MVVM模式实现图片分页显示\WpfApplicationWPF\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\wnmhb\Desktop\MVVM模式实现图片分页显示\WpfApplicationWPF\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\wnmhb\Desktop\MVVM模式实现图片分页显示\WpfApplicationWPF\obj\x86\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\wnmhb\Desktop\MVVM模式实现图片分页显示\WpfApplicationWPF\obj\x86\Debug\MainWindow.baml
+C:\Users\wnmhb\Desktop\MVVM模式实现图片分页显示\WpfApplicationWPF\obj\x86\Debug\WpfApplication1.g.resources
+C:\Users\wnmhb\Desktop\MVVM模式实现图片分页显示\WpfApplicationWPF\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\wnmhb\Desktop\MVVM模式实现图片分页显示\WpfApplicationWPF\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\wnmhb\Desktop\MVVM模式实现图片分页显示\WpfApplicationWPF\obj\x86\Debug\WpfApplication1.exe
+C:\Users\wnmhb\Desktop\MVVM模式实现图片分页显示\WpfApplicationWPF\obj\x86\Debug\WpfApplication1.pdb
+C:\Users\wnmhb\Desktop\MVVM模式实现图片分页显示\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\wnmhb\Desktop\MVVM模式实现图片分页显示\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\wnmhb\Desktop\MVVM模式实现图片分页显示\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\wnmhb\Desktop\MVVM模式实现图片分页显示\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\wnmhb\Desktop\MVVM模式实现图片分页显示\WpfApplication1\obj\x86\Debug\App.g.cs
+C:\Users\wnmhb\Desktop\MVVM模式实现图片分页显示\WpfApplication1\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\wnmhb\Desktop\MVVM模式实现图片分页显示\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\wnmhb\Desktop\MVVM模式实现图片分页显示\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\wnmhb\Desktop\MVVM模式实现图片分页显示\WpfApplication1\obj\x86\Debug\MainWindow.baml
+C:\Users\wnmhb\Desktop\MVVM模式实现图片分页显示\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+C:\Users\wnmhb\Desktop\MVVM模式实现图片分页显示\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\wnmhb\Desktop\MVVM模式实现图片分页显示\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\wnmhb\Desktop\MVVM模式实现图片分页显示\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+C:\Users\wnmhb\Desktop\MVVM模式实现图片分页显示\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+D:\Workspace\Picture Gallery App With The Model-View-ViewModel Design Pattern\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\Workspace\Picture Gallery App With The Model-View-ViewModel Design Pattern\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+D:\Workspace\Picture Gallery App With The Model-View-ViewModel Design Pattern\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+D:\Workspace\Picture Gallery App With The Model-View-ViewModel Design Pattern\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\Workspace\Picture Gallery App With The Model-View-ViewModel Design Pattern\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\Workspace\Picture Gallery App With The Model-View-ViewModel Design Pattern\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+D:\Workspace\Picture Gallery App With The Model-View-ViewModel Design Pattern\WpfApplication1\obj\x86\Debug\App.g.cs
+D:\Workspace\Picture Gallery App With The Model-View-ViewModel Design Pattern\WpfApplication1\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Workspace\Picture Gallery App With The Model-View-ViewModel Design Pattern\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+D:\Workspace\Picture Gallery App With The Model-View-ViewModel Design Pattern\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.lref
+D:\Workspace\Picture Gallery App With The Model-View-ViewModel Design Pattern\WpfApplication1\obj\x86\Debug\MainWindow.baml
+D:\Workspace\Picture Gallery App With The Model-View-ViewModel Design Pattern\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+D:\Workspace\Picture Gallery App With The Model-View-ViewModel Design Pattern\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+D:\Workspace\Picture Gallery App With The Model-View-ViewModel Design Pattern\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.Cache
